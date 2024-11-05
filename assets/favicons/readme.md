@@ -1,0 +1,1 @@
+Add favicons from (favicon.io)[favicon.io]
